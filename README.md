@@ -2,10 +2,13 @@
 
 
 João Gabriel Grah Machado
+
 ---
 Valter Rogério da Silva Júnior
+
 ---
 622
+
 ---
 Lógica da programação - Carlos Speranza
 
