@@ -17,11 +17,12 @@ Lógica da programação - Carlos Speranza
 ## Links
 
 [Github](https://github.com/valterr28/Arduino-acionamento-senha)
-[Fluxograma](https://)
+[Fluxograma](https://whimsical.com/6FJ6kYMoqogxmWBR1rHA7Q)
 [Código](https://drive.google.com/file/d/1keEei7JQ_Fq-lYnQXb5YXb-tzqS21Ci-/view?usp=sharing)
 [Guia de Conexões](https://drive.google.com/file/d/18Dcz624WUKtDAnQRxaulzMFy0aoJImCS/view?usp=sharing)
 [Relatório escrito do projeto](https://drive.google.com/file/d/17sE5uPrXecWP6FvEGLbqAQpM0q4Be4Yi/view?usp=sharing)
-[Vídeo - Drive](https://)
+[Vídeo - Drive](https://drive.google.com/drive/folders/1oABo4vpd9bRwbnXwrJwyJh1IXATchfaP?usp=sharing)
+
 
 ## Introdução
 
