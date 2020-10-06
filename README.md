@@ -1,11 +1,11 @@
 # PROJETO LGP ARDUINO
 
-:::success
+
 João Gabriel Grah Machado
 Valter Rogério da Silva Júnior
 622
 Lógica da programação - Carlos Speranza
-:::
+
 
 
 ## Links
@@ -19,7 +19,7 @@ Lógica da programação - Carlos Speranza
 
 
 
-:::spoiler Código completo
+
 ```csharp=
 /*  Controle de acesso por senha  
    
@@ -129,7 +129,7 @@ estadoPorta(true); // tranca a porta novamente
 }
 }
 ```
-:::
+
 
 ---
 ## Qualquer dúvida estamos a disposição
